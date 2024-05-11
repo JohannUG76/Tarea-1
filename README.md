@@ -3,6 +3,7 @@
 La primera interfaz de práctica del tercer semestre en la Universidad de Guayaquil será una plataforma intuitiva y dinámica, diseñada para facilitar el aprendizaje de los estudiantes. Con herramientas interactivas y recursos multimedia, se promoverá un ambiente de estudio colaborativo y estimulante. ¡Prepárate para una experiencia educativa innovadora y enriquecedora!
 
 ## Imagen de ejemplo del Proyecto
+![image](https://github.com/JohannUG76/Tarea-1/assets/169223501/d815fb8a-4e35-4e84-aa29-0106f1d07d93)
 
 
 ## Textfield
